@@ -8,12 +8,12 @@
 <br>
 
 ### 🚀 About Me
-I am a highly motivated developer focused on problem-solving and adapting to new technologies. My current focus is on **ASP.NET Core**, **Flutter**, and **Computer Vision (CNN/YOLO)** models.
+I am a highly motivated developer focused on problem-solving and adapting to new technologies. I am passionately working on **Artificial Intelligence** and **Image Processing** projects.
 
 - 🎓 **Education:** Kocaeli University, Computer Engineering (Junior)
 - 💼 **Experience:** Full-Stack Intern (ASP.NET & Flutter) at Kayseri Şeker Factory.
-- 🌱 **Learning:** Deep Learning Models & Advanced Backend Architectures.
-- ⚡ **Interests:** Software Architecture, Database Optimization, Mobile UI/UX.
+- 🌱 **Current Focus:** Computer Vision (CNN/YOLO), Deep Learning & Web Architectures.
+- ⚡ **Interests:** AI Model Training, Backend Optimization, Mobile UI/UX.
 
 ---
 
@@ -44,11 +44,11 @@ I am a highly motivated developer focused on problem-solving and adapting to new
 
 | Project Name | Description | Tech Stack |
 | :--- | :--- | :--- |
+| **Building Management System** <br> <sub>[API](https://github.com/mervebudakk/Bina-Yonetim-Sistemi-API) • [Mobile](https://github.com/mervebudakk/Bina-Yonetim-Sistemi-Mobil) • [Database](https://github.com/mervebudakk/Bina-Yonetim-Sistemi-Veritabani)</sub> | Full-Stack system with RBAC security developed for factory management. Features separate API, Mobile, and DB layers. | `ASP.NET Core` `Flutter` `MSSQL` |
 | [**Web-Based Social Library**](https://github.com/mervebudakk/sosyal-kutuphane-platformu) | A social platform where users manage book/movie collections, integrated with TMDb & Google Books APIs. | `Web` `RESTful API` `SQL` |
 | [**Public Transit Route Planner**](https://github.com/mervebudakk/RoutePlanningSystem) | Desktop app calculating optimal routes (shortest time/cost) for Kocaeli transit network using Dijkstra's algorithm. | `C#` `WPF` `Leaflet.js` |
 | [**Diabetes Tracking System**](https://github.com/mervebudakk/diabetes-tracking-system) | A desktop tracking application offering rule-based decision support for diabetes patients and doctors. | `Python` `PyQt5` `PostgreSQL` |
 | **Dynamic Exam Scheduler** | An automated system generating conflict-free exam schedules and PDF seating plans based on room capacities. | `Python` `PyQt5` `PostgreSQL` |
-| **Building Management System** | Full-Stack system with RBAC security developed for factory management. (Internship Project) | `ASP.NET Core` `Flutter` `MSSQL` |
 
 ---
 
