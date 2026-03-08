@@ -1,64 +1,50 @@
-# Hi there, I'm Merve Budak! 👋
+# Merve Budak
 
 <div align="center">
-  <b>Computer Engineering Student</b> at Kocaeli University (3rd Year). <br>
-  I build Full-Stack Web, Mobile Apps, and AI-powered projects.
+  <b>Computer & Software Engineering Student</b> at Kocaeli University (3rd Year). <br>
+  Focused on Backend Architecture, Distributed Systems, Optimization Algorithms, and AI Research.
 </div>
 
 <br>
 
-### 🚀 About Me
-I am a highly motivated developer focused on problem-solving and adapting to new technologies. I am passionately working on **Artificial Intelligence** and **Image Processing** projects.
+### Profile Overview
+I am a software engineering student driven by mathematical problem-solving and scalable system design. My academic and professional journey is deeply rooted in enterprise back-end development (C#, ASP.NET Core, SQL) and applied Artificial Intelligence (Computer Vision, PyTorch) research. I specialize in mapping complex business rules into performant, secure relational architectures and calculation engines.
 
-- 🎓 **Education:** Kocaeli University, Computer Engineering (Junior)
-- 💼 **Experience:** Full-Stack Intern (ASP.NET & Flutter) at Kayseri Şeker Factory.
-- 🌱 **Current Focus:** Computer Vision (CNN/YOLO), Deep Learning & Web Architectures.
-- ⚡ **Interests:** AI Model Training, Backend Optimization, Mobile UI/UX.
-
----
-
-### 🛠️ Tech Stack
-
-**Languages & Frameworks**
-<div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-</div>
-
-**Databases & Tools**
-<div align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-</div>
+- **Education:** Kocaeli University, B.Sc. in Computer Engineering (2023 - Expected 2027)
+- **TÜBİTAK Research:** Research Assistant (Scholar) at Embedded and Perception Systems Laboratory. Conducting performance evaluations on advanced object detection models (YOLOv8, Faster R-CNN) for a TÜBİTAK-funded RGB Fall Detection AI project. *(Codebase is currently private for academic integrity).*
+- **Industry Experience:** Software Development Intern at Kayseri Şeker Factory IT Department, independently architecting a full-stack Building Management System with RBAC authorization and MS SQL transaction integrity.
+- **Current Focus:** Backend System Design (C# / .NET / Python), Relational Database Optimization (PostgreSQL / MSSQL), Graph Theory (Dijkstra / Routing Algorithms), and Applied Deep Learning (CNN Frameworks).
 
 ---
 
-### 🏆 Featured Projects
+### Technical Competencies
 
-| Project Name | Description | Tech Stack |
+- **Languages:** C#, Python, C, SQL (T-SQL, PL/pgSQL), JavaScript
+- **Backend & APIs:** ASP.NET Core, FastAPI, RESTful Architecture, JWT Security, Entity Framework
+- **Data & Algorithms:** PostgreSQL, MS SQL, Graph Algorithms (Dijkstra, Clark-Wright), Object-Oriented Design
+- **AI & Tools:** PyTorch, OpenCV, Git, Docker (Basic), Linux (Basic)
+
+---
+
+### Featured Projects
+
+| Project Name | Primary Technologies | Description |
 | :--- | :--- | :--- |
-| **Building Management System** <br> <sub>[API](https://github.com/mervebudakk/Bina-Yonetim-Sistemi-API) • [Mobile](https://github.com/mervebudakk/Bina-Yonetim-Sistemi-Mobil) • [Database](https://github.com/mervebudakk/Bina-Yonetim-Sistemi-Veritabani)</sub> | Full-Stack system with RBAC security developed for factory management. Features separate API, Mobile, and DB layers. | `ASP.NET Core` `Flutter` `MSSQL` |
-| [**Web-Based Social Library**](https://github.com/mervebudakk/sosyal-kutuphane-platformu) | A social platform where users manage book/movie collections, integrated with TMDb & Google Books APIs. | `Web` `RESTful API` `SQL` |
-| [**Public Transit Route Planner**](https://github.com/mervebudakk/RoutePlanningSystem) | Desktop app calculating optimal routes (shortest time/cost) for Kocaeli transit network using Dijkstra's algorithm. | `C#` `WPF` `Leaflet.js` |
-| [**Diabetes Tracking System**](https://github.com/mervebudakk/diabetes-tracking-system) | A desktop tracking application offering rule-based decision support for diabetes patients and doctors. | `Python` `PyQt5` `PostgreSQL` |
-| **Dynamic Exam Scheduler** | An automated system generating conflict-free exam schedules and PDF seating plans based on room capacities. | `Python` `PyQt5` `PostgreSQL` |
+| **Logistics Optimization Engine** <br> <sub>[Source Code](https://github.com/mervebudakk/CargoOperationsSystem)</sub> | `FastAPI` `PostgreSQL` `OSMnx` | Developed a calculation engine applying Clark-Wright Savings and Nearest Neighbor algorithms to optimize geographic node traversal and fleet routing across real-world road networks using OpenStreetMap data. |
+| **Enterprise Building Management System** <br> <sub>[API](https://github.com/mervebudakk/Bina-Yonetim-Sistemi-API) • [Database](https://github.com/mervebudakk/Bina-Yonetim-Sistemi-Veritabani) • [Mobile](https://github.com/mervebudakk/Bina-Yonetim-Sistemi-Mobil)</sub> | `C#` `ASP.NET Core` `MS SQL` | Full-stack corporate architecture developed for Kayseri Şeker. Features a strictly typed RESTful API with secure JWT-Based Role Access Control (RBAC) and a highly normalized relational database schema. |
+| **Advanced Routing & Pathfinding System** <br> <sub>[Source Code](https://github.com/mervebudakk/RoutePlanningSystem)</sub> | `C#` `WPF` `Graph Theory` | Desktop application computing the shortest transit paths across a multi-modal network utilizing a custom implementation of Dijkstra's algorithm and cost-heuristic definitions. |
+| **Constraint-Based Exam Scheduler** <br> <sub>[Source Code](https://github.com/mervebudakk/StudentExamScheduleSystem)</sub>| `Python` `PostgreSQL` `bcrypt` | Algorithmic scheduling engine solving multi-variable constraints (time, room capacity, physical distancing) to automatically generate matrix-based timetables and seating plans without collision. |
+| **Decision Support Information System** <br> <sub>[Source Code](https://github.com/mervebudakk/DiabetesTrackingSystem)</sub>| `Python` `PostgreSQL` `SHA-256` | Secure framework offering rule-based decision support logic for medical professionals. Implemented strict permission boundaries and cryptographic data hashing. |
 
 ---
 
-### 📬 Connect with Me
+### Contact
 
 <div align="left">
 <a href="https://www.linkedin.com/in/merve-budak-90b0a0298" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
 </a>
 <a href="mailto:mervebudak230@gmail.com">
-<img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin-bottom: 5px;" />
 </a>
 </div>
