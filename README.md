@@ -1,7 +1,7 @@
 # Merve Budak
 
 <div align="center">
-  <b>Computer & Software Engineering Student</b> at Kocaeli University (3rd Year). <br>
+  <b>Computer Engineering Student</b> at Kocaeli University (3rd Year). <br>
   Focused on Backend Architecture, Distributed Systems, Optimization Algorithms, and AI Research.
 </div>
 
@@ -9,7 +9,7 @@
 
 ### Profile Overview
 
-I am a software engineering student driven by mathematical problem-solving and scalable system design. My academic and professional journey is deeply rooted in enterprise back-end development (C#, ASP.NET Core, SQL) and applied Artificial Intelligence (Computer Vision, PyTorch) research. I specialize in mapping complex business rules into performant, secure relational architectures and calculation engines.
+I am a computer engineering student driven by mathematical problem-solving and scalable system design. My academic and professional journey is deeply rooted in enterprise back-end development (C#, ASP.NET Core, SQL) and applied Artificial Intelligence (Computer Vision, PyTorch) research. I specialize in mapping complex business rules into performant, secure relational architectures and calculation engines.
 
 - **Education:** Kocaeli University, B.Sc. in Computer Engineering (2023 - Expected 2027)
 - **Research Interest:** Actively working in the field of Computer Vision, with hands-on experience evaluating object detection models (YOLOv8, Faster R-CNN).
