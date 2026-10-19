@@ -1,7 +1,7 @@
 # Merve Budak
 
 <div align="center">
-  <b>Computer Engineering Student</b> at Kocaeli University (4rd Year). <br>
+  <b>Computer Engineering Student</b> at Kocaeli University (4th Year). <br>
   Focused on Backend Architecture, Distributed Systems, Optimization Algorithms, and AI Research.
 </div>
 
